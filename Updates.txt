@@ -1,0 +1,23 @@
+~ Changed player photo
+~ Changed object photo
+~ Changed screen resolution
+~ Changed background picture
+~ Changed text color
+~ Changed text position on screen
+~ Changed background music
+~ Changed object speed
+~ Changed player movement speed
+~ Changed object minimum size
+~ Changed object maximum size
+~ Changed object spawn rate
+~ Changed object speed
+~ Disabled player UP/w keys for going up
+~ Disabled player DOWN/s keys for going down
+~ Changed player spawn location
+~ Disabled mouse to control player movement
+~ Changed max FPS from 40 to 100 for smoother gameplay
+~ Changed slowcheat and revercheat key bindings to "L", "K"
+~ Added opening screen picture/text
+~ Added countdown timer
+~ Added levels (it gets harder whenever countdown reaches 0 (more objects falling down and they fall down faster))
+~ Changed dying sound
